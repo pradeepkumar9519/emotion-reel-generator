@@ -1,6 +1,4 @@
- { prompt } = req.body;
-
-  const apiRes = await fetch("https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=AIzaSyBA3sRkWzMOzYB-WQuVq4BOq8dnywUrZPg", {
+ const apiRes = await fetch("https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=AIzaSyBA3sRkWzMOzYB-WQuVq4BOq8dnywUrZPg", {
     method: "POST",
     headers: {
       "Content-Type": "application/json"
