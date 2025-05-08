@@ -1,2 +1,3 @@
-# emotion-reel-generator
-एक ऐसा टूल जो भावनात्मक Instagram reels के लिए स्क्रिप्ट, म्यूज़िक और इमेज प्रॉम्प्ट AI से जनरेट करता है।
+# Emotion-to-Reel Script Generator
+
+Generate emotional Instagram reel scripts using AI — includes script, image prompt, music suggestion, and more.
