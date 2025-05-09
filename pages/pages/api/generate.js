@@ -36,3 +36,7 @@ export default async function handler(req, res) {
     res.status(500).json({ error: 'Internal Server Error', details: error.message });
   }
 }
+
+git add pages/api/generate.js
+git commit -m "feat(api): add error handling to generate.js"
+git push origin main
